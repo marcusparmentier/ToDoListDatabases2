@@ -1,0 +1,8 @@
+/Users/Guest/Desktop/TaskList.Solutions/TaskList/bin/Debug/netcoreapp1.1/TaskList.deps.json
+/Users/Guest/Desktop/TaskList.Solutions/TaskList/bin/Debug/netcoreapp1.1/TaskList.runtimeconfig.json
+/Users/Guest/Desktop/TaskList.Solutions/TaskList/bin/Debug/netcoreapp1.1/TaskList.runtimeconfig.dev.json
+/Users/Guest/Desktop/TaskList.Solutions/TaskList/obj/Debug/netcoreapp1.1/TaskList.AssemblyInfo.cs
+/Users/Guest/Desktop/TaskList.Solutions/TaskList/bin/Debug/netcoreapp1.1/TaskList.dll
+/Users/Guest/Desktop/TaskList.Solutions/TaskList/bin/Debug/netcoreapp1.1/TaskList.pdb
+/Users/Guest/Desktop/TaskList.Solutions/TaskList/obj/Debug/netcoreapp1.1/TaskList.dll
+/Users/Guest/Desktop/TaskList.Solutions/TaskList/obj/Debug/netcoreapp1.1/TaskList.pdb
